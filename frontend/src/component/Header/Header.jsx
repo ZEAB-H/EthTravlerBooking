@@ -11,7 +11,7 @@ const nav_links=[
     display:'Home'
   },
   {
-    path:'#',
+    path:'/about',
     display:'About'
   },
   {
