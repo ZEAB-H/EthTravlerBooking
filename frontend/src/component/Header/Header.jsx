@@ -4,7 +4,7 @@ import {Container, Row ,Button} from 'reactstrap';
 import { NavLink, Link } from 'react-router-dom';
 
 import Logo from '../../assets/images/logo.jpg'
-
+// insert it here 
 const nav_links=[
 
   {
